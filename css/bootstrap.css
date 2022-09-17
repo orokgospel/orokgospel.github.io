@@ -78,7 +78,7 @@ h1 {
 
 mark {
   background: #ff0;
-  color: #000;
+  color: #0000FF;
 }
 
 small {
@@ -288,11 +288,11 @@ th {
 
   .btn > .caret,
   .dropup > .btn > .caret {
-    border-top-color: #000 !important;
+    border-top-color: #0000FF !important;
   }
 
   .label {
-    border: 1px solid #000;
+    border: 1px solid #0000FF;
   }
 
   .table {
